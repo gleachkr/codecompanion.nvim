@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.8.0](https://github.com/olimorris/codecompanion.nvim/compare/v10.7.0...v10.8.0) (2024-12-15)
+
+
+### Features
+
+* **chat:** can delete references ([c0b8c25](https://github.com/olimorris/codecompanion.nvim/commit/c0b8c2522c20b8369201132a4ce953f3cdf7b5e2))
+
 ## [10.7.0](https://github.com/olimorris/codecompanion.nvim/compare/v10.6.0...v10.7.0) (2024-12-14)
 
 
